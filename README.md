@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luberk-prog
 - 👀 I’m interested in ...IT
-- 🌱 I’m currently learning ...colding
+- 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...a coding projet
 - 📫 How to reach me ...amohdawo123@gmail.com
 
